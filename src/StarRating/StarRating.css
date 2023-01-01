@@ -1,0 +1,15 @@
+.on{
+    color: #000;
+}
+.off{
+    color: #ccc;
+}
+button{
+    background-color: #fcfcfc;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+.star-display{
+    display: flex;
+}

@@ -1,0 +1,21 @@
+.accordion-main{
+    align-items: center;
+    background-color: rgba(36, 168, 155, 0.75);
+}
+.accordion-item{
+    display: flex;
+    justify-content: center;
+}
+.accordion-expand{
+    padding-left: 30px ;
+    position: relative;
+    top: 0;
+}
+.accordion-title{
+padding: 5px;
+align-items: center;
+}
+.accordion-content{
+    /* top right bottom left */
+margin: 2rem 0 0 5rem;
+}
